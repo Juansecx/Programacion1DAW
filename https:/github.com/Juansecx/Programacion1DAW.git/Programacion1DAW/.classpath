@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio1-JAVA/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/EJERCICIO11/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio15.1/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio15/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio17/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio2/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio21/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio3/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/Ejercicio4/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 1/JAVA"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/Java2.2/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/JAVA2/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/Juanz/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/Ordena/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/PIRAMIDE HUECA/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 2/Proyecto_InventirEx/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 3/Relacion3_1/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 3/Relacion3_3/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 3/Relacion3_5/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 3/VIERNES/Relacion5_3/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 3/VIERNES/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Anagrama/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Anagrama2/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/CODIFICADOR/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Contraseña/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/CuentaImpares/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Digitos/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/EmpleadoEj7/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Factorial/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/FIBONACCI/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Invertido/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/Tema 4/Java3/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/TEMA 5/espacios relacion/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/TEMA 5/java5/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/TEMA 5/Relacion5_2/src"/>
+	<classpathentry kind="src" path="EjerciciosJava/TEMA 5/Relacion5_4"/>
+	<classpathentry kind="src" path="EjerciciosJava/TEMA 5/Relacion5/src"/>
+	<classpathentry kind="src" path="EXAMEN/BINGO/src"/>
+	<classpathentry kind="src" path="EXAMEN/ExamenJava/src"/>
+	<classpathentry kind="src" path="EXAMEN/ExamenPOO_Juan Sergio/src"/>
+	<classpathentry kind="src" path="EXAMEN/ExamenSegundaEv/src"/>
+	<classpathentry kind="src" path="EXAMEN/JUEGO DE LA OCA/src"/>
+	<classpathentry kind="src" path="HERENCIA/Herencia/src"/>
+	<classpathentry kind="src" path="ObjetosJava/GNESIMAL/src"/>
+	<classpathentry kind="src" path="ObjetosJava/Pizza/src"/>
+	<classpathentry kind="src" path="ObjetosJava/PRÁCTICA_POO/src"/>
+	<classpathentry kind="src" path="ObjetosJava/PRACTICA1-POO/src"/>
+	<classpathentry kind="output" path="EXAMEN/BINGO/bin"/>
+</classpath>
